@@ -1,5 +1,5 @@
 {
-    "name":"1601com/contao-urlcleaner",
+    "name":"christianbarkowsky/contao-urlcleaner",
     "description":"Removes unwanted parts of the url like 'items' or 'events'",
     "keywords":["contao", "items", "remove", "clean", "entfernen"],
     "type":"contao-module",
