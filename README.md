@@ -1,3 +1,5 @@
+# Dieser Fork wird nicht weiter betreut. Bitte zum Original-Projekt https://github.com/christianbarkowsky/contao-urlcleaner
+
 # urlcleaner
 
 Removes unwanted parts of the url like "items" or "events"
